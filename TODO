@@ -1,0 +1,4 @@
+# Missing files in repo
+Add model artifacts (each is +500mb which exceeds the max allowed upload of 100mb on the free git version)
+Add training and testing set of dog breeds to train the model
+
